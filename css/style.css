@@ -1,0 +1,13 @@
+.navbar-brand {
+    color:#ffffff !important;
+}
+.bg-dark {
+    background-color: #2e8be8!important;
+}
+ul li a{
+    color:#292424!important;
+}
+ul li a:hover{
+    color: whitesmoke !important;
+    text-decoration: underline !important;
+}
